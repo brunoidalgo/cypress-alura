@@ -1,0 +1,5 @@
+{
+  "loginpage": "https://adopet-frontend-cypress.vercel.app",
+  "registerPage":"https://adopet-frontend-cypress.vercel.app/cadastro",
+  "homepage":"https://adopet-frontend-cypress.vercel.app/home"
+}
